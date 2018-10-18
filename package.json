@@ -1,0 +1,22 @@
+{
+  "name": "production-portfolio",
+  "version": "1.0.0",
+  "description": "HTML page covering past and present code work of Robert Giovinozzo",
+  "main": "portfolio.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPGi0/production-portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Robert Giovinozzo Jr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RPGi0/production-portfolio/issues"
+  },
+  "homepage": "https://github.com/RPGi0/production-portfolio#readme"
+}
