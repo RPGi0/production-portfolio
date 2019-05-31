@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RPGi0/production-portfolio/issues"
   },
-  "homepage": "https://github.com/RPGi0/production-portfolio#readme"
+  "homepage": "https://github.com/RPGi0/production-portfolio#readme",
+  "dependencies": {
+    "now": "^15.3.0"
+  }
 }
